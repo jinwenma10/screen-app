@@ -12,6 +12,7 @@ struct ContentView: View {
         ZStack {
             Color.mint
             VStack{
+                Text("Cheng Zhang")
                 Text("jinwen")
                     .font(.largeTitle)
                     .bold()
